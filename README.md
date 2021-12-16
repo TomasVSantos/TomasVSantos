@@ -4,6 +4,7 @@
   <br>
   <a href="https://github.com/tomasvsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasvsantos&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=tomasvsantos&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
 <br>
     <h3>Languages I Work With:</h3>
 <div style="display: inline_block"><br>
