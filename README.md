@@ -3,7 +3,7 @@
   <h3>My Stats:</h3>
   <br>
   <a href="https://github.com/tomasvsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasvsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasvsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&theme=prussian"/>
 <br>
     <h3>Languages I work with:</h3>
 <div style="display: inline_block"><br>
