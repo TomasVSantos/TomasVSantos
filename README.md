@@ -24,6 +24,7 @@
   <h3>Where To Find Me:</h3>
  
 <div> 
-  <a href="https://instagram.com/tomas.vsantos" target="_blank"><img src="https://img.shields.io/badge/-@Tomas.VSantos-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/TomasVSantos" target="_blank"><img src="https://img.shields.io/badge/@TomasVSantos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/tomas.vsantos" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/TomasVSantos" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/c6pme8pz3ahrigm8yoy5eq1gy?si=20f800c57c5a4e80" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
