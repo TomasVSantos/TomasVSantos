@@ -1,4 +1,4 @@
-## I'm Tomás, a coding student from Portugal, here you can find a bit more about me!
+## I'm Tomás, a software developer from Portugal, here you can find a bit more about me!
 <div align="center">
   <h3>My Stats:</h3>
   <br>
