@@ -27,3 +27,4 @@ Currently interested in building reliable products, improving code quality, and 
 - GitHub: https://github.com/TomasVSantos
 - Instagram: https://instagram.com/TomasVSantos
 - Twitter/X: https://twitter.com/TomasVSantos
+- My photography: https://tomasvsantos.pt
