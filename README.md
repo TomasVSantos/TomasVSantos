@@ -6,7 +6,7 @@ I work on production systems with a focus on frontend architecture, developer ex
 Currently interested in building reliable products, improving code quality, and shipping things that actually get used.
 
 ### Tech Stack
-- **Languages:** TypeScript, JavaScript, Go, Swift
+- **Languages:** TypeScript, JavaScript, Go, Rust, Swift
 - **Frontend:** React, Angular
 - **Backend:** Go, GraphQL, REST
 - **Tooling:** Git, Docker, CI/CD
