@@ -1,29 +1,51 @@
-## Tomás Santos
+# hey, i'm tomás 👋
 
-Software Engineer based in Portugal.
+software engineer from portugal 🇵🇹
 
-I work on production systems with a focus on frontend architecture, developer experience, and scalable backend services.  
-Currently interested in building reliable products, improving code quality, and shipping things that actually get used.
+i like building things, shipping them, then staring at the code three months later wondering who approved this architecture.
 
-### Tech Stack
-- **Languages:** TypeScript, JavaScript, Go, Rust, Swift
-- **Frontend:** React, Angular
-- **Backend:** Go, GraphQL, REST
-- **Tooling:** Git, Docker, CI/CD
-- **Databases:** SQL, Aurora, DynamoDB (working knowledge)
+currently writing a suspicious amount of **TypeScript**, **Go**, and increasingly **Rust**.
 
-### What I Care About
-- Clean, readable code
-- Long-term maintainability over clever hacks
-- Strong testing and predictable deployments
-- Systems that fail gracefully
+```ts
+const me = {
+  work: ["frontend", "backend", "developer experience"],
+  languages: ["TypeScript", "Go", "Rust", "Swift"],
+  tools: ["React", "Angular", "GraphQL", "Docker"],
+  interests: [
+    "making software less annoying",
+    "open source",
+    "photography",
+    "music",
+    "side projects that seemed easier at 2am",
+  ],
+};
+```
 
-### Currently Exploring
-- Deeper Go backend patterns
-- Swift and iOS development
-- Distributed systems fundamentals
+## what i'm up to
 
-### Links
-- Instagram: https://instagram.com/TomasVSantos
-- Twitter/X: https://twitter.com/TomasVSantos
-- My photography: https://tomasvsantos.pt
+- 🦀 falling down the Rust rabbit hole
+- 🛠️ contributing to open source
+- 🍎 occasionally pretending I know Swift
+- ⚙️ learning more about distributed systems and backend architecture
+- 📸 taking photos when I'm not staring at a text editor
+- 🚢 strongly in favor of actually shipping the thing
+
+## things i believe in
+
+**boring code > clever code**
+
+**tests are cheaper than incidents**
+
+**the best architecture diagram is the one that still makes sense six months later**
+
+**`git push` is a feature**
+
+## find me elsewhere
+
+[website / photography](https://tomasvsantos.pt) ·
+[instagram](https://instagram.com/TomasVSantos) ·
+[x / twitter](https://twitter.com/TomasVSantos)
+
+---
+
+<sub>probably fixing something that “should be a quick change”</sub>
